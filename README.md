@@ -82,9 +82,6 @@ Overall, the adoption of these technologies enhances Udio's value proposition, c
 
 Below is an example of a song/video exported from Udio:
 
-<video width="320" height="240" controls>
-  <source src="Rising Sun Gospel.mp4" type="video/mp4">
-</video>
 
 [^1]: https://techstartups.com/2024/01/31/uncharted-labs-an-ai-startup-founded-by-three-google-deepmind-researchers-raises-8-5-million-in-funding/
 [^2]: https://www.musicbusinessworldwide.com/new-ai-powered-instant-music-making-app-udio-raises-10m-launches-with-backing-from-will-i-am-common-unitedmasters-a16z/

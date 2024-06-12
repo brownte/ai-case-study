@@ -80,7 +80,8 @@ From the perspective of a musician, these features resonate well as they mirror 
 
 Overall, the adoption of these technologies enhances Udio's value proposition, catering to the diverse needs of its user base and reinforcing its position as a leading AI-driven music generation platform.
 
-Below is an example of a song/video exported [from Udio](https://www.udio.com/songs/uUjAaApMbjmMqBoj6Z6dsd):
+## Example
+Song/video generated and exported [from Udio](https://www.udio.com/songs/uUjAaApMbjmMqBoj6Z6dsd):
 
 https://github.com/brownte/ai-case-study/assets/101365771/7cddfe14-b463-4565-bf77-d8e953f3f160
 

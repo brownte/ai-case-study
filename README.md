@@ -7,7 +7,7 @@
 
 **Founders**: Udio was founded by a team of former researchers for Google DeepMind, including CEO David Ding, Conor Durkan, Charlie Nash, Yaroslav Ganin, and Andrew Sanchez [^1].
 
-**Idea**: Udio arose from frustrations within Google over the slow translation of AI research into practical products, coupled with internal bureaucratic obstacles[^1]. Inspired by their desire to democratize music creation, Udio's creators envisioned a platform enabling users of all musical backgrounds to effortlessly generate original music. Thus, Udio was conceived as a solution to break down barriers in music production, born from a blend of dissatisfaction with the status quo and a vision for a more accessible future.
+**Idea**: Udio arose from frustrations within Google over the slow translation of AI research into practical products, coupled with internal bureaucratic obstacles [^1]. Inspired by their desire to democratize music creation, Udio's creators envisioned a platform enabling users of all musical backgrounds to effortlessly generate original music. Thus, Udio was conceived as a solution to break down barriers in music production, born from a blend of dissatisfaction with the status quo and a vision for a more accessible future.
 
 **Funding**: Udio received financial backing from various sources, including the venture capital firm Andreessen Horowitz, musicians will.i.am, Tay Keith, Common, investor Kevin Wall, Instagram co-founder Mike Krieger, and DeepMind researcher Oriol Vinyals [^2]. It received a total of $10 million in seed funding [^2], in addition to an initial $8.5 million raised previously [^1].
 
@@ -37,7 +37,7 @@
 - Content creation: Number of songs generated, remixes made, and user-generated content shared on the platform.
 - User satisfaction: Feedback mechanisms, user ratings, and reviews.
 - Partnership growth: Expansion of partnerships with artists, recording companies, brands, and industry experts
-- Licensing returns: Money earned from placement of songs in commercial venues
+- Licensing returns: Money earned from placement of songs in commercial venues.
 
 **Competitive performance**: Despite the variances in funding (Suno AI raised a total of $125 million in funding [^6], while Stability Audio's company, Studio AI, raised a total of $126 million [^7]), Udio appears to be faring well, as new features continue to roll out weekly, and articles are [written](https://www.tomsguide.com/ai/suno-vs-udio-7-prompts-to-find-the-best-ai-music-generator) ranking it as superior to it's direct competitor, Suno AI. 
 ## Recommendations
@@ -48,7 +48,7 @@
    - Ability to set keys and key changes
    - Feed melodies via microphones
 2. Export functionality: 
-   - Ability to export specific stems (for example, piano only)
+   - Ability to export specific stems (for example, from a full piano-vocal-guitar song, allow me to save the piano track only)
    - AI quantized sheet music arrangements
 
 **Benefits**:

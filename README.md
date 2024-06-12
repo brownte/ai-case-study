@@ -33,11 +33,11 @@
 
 **Core metrics**: Udio's success could be measured by the following metrics:
 
-- User engagement: Number of active users, subscriptions purchased, frequency of usage, and duration of sessions.
-- Content creation: Number of songs generated, remixes made, and user-generated content shared on the platform.
+- User engagement: Number of active users, subscriptions purchased, frequency of usage, and duration of sessions
+- Content creation: Number of songs generated, remixes made, and user-generated content shared on the platform
 - User satisfaction: Feedback mechanisms, user ratings, and reviews.
 - Partnership growth: Expansion of partnerships with artists, recording companies, brands, and industry experts
-- Licensing returns: Money earned from placement of songs in commercial venues.
+- Licensing returns: Money earned from placement of songs in commercial venues
 
 **Competitive performance**: Despite the variances in funding (Suno AI raised a total of $125 million in funding [^6], while Stability Audio's company, Studio AI, raised a total of $126 million [^7]), Udio appears to be faring well, as new features continue to roll out weekly, and articles are [written](https://www.tomsguide.com/ai/suno-vs-udio-7-prompts-to-find-the-best-ai-music-generator) ranking it as superior to it's direct competitor, Suno AI. 
 ## Recommendations
